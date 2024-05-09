@@ -1,4 +1,4 @@
-# Course - Language, Reading and the Brain
+### Course - Language, Reading and the Brain
 SISSA Cognitive Neuroscience PhD 2023/24
 
 Prof. Davide Crepaldi
