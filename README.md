@@ -8,5 +8,5 @@
 
 ### Contents
 
-In this repository, you will find the notebooks with the contents of the chosen final assignments.
+In this repository, you will find the notebooks for the chosen final assignments.
 I've chose Assignment 1 on **Sound Symbolism** and Assignment 2 on **DRC simulations**
